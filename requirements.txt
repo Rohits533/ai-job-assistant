@@ -1,0 +1,5 @@
+groq
+streamlit
+pypdf2
+reportlab
+pandas
